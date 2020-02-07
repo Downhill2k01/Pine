@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/Day0.rpy", line 43, in script
+    C "what? Oh…"
+Exception: Sayer 'C' is not defined.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/Day0.rpy", line 43, in script
+    C "what? Oh…"
+  File "/Users/sambagwell/Desktop/renpy-7.3.5-sdk/renpy/ast.py", line 678, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "/Users/sambagwell/Desktop/renpy-7.3.5-sdk/renpy/ast.py", line 576, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
+Exception: Sayer 'C' is not defined.
+
+Darwin-18.2.0-x86_64-i386-64bit
+Ren'Py 7.3.5.606
+Pine 0.1
+Thu Feb  6 20:13:24 2020
