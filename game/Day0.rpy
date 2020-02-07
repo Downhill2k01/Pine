@@ -116,7 +116,29 @@
             jump post_crash_friends1
 
 label post_crash_friends1:
-    "hewwo x3"
+     y "im gonna call ryan and ask him to pick us up"
+
+     c "call jason, ryans driving"
+
+     "i pick up the phone and dial jason's number"
+
+     j "hello?"
+
+     y "yeah, we uh, hit a deer"
+
+     j "oh my god! are you okay?"
+
+     y "yeah i just need yall to get over here"
+
+     "just as i say that i see their car turn the corner around the pines"
+
+     "ryan stops the car on the 'shoulder' of the road"
+
+     "everyone but laura gets out"
+
+
+
+     
 
 
 
